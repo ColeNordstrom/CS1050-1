@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;M03SwapMethod.java&apos; to &apos;someProject&apos;&#x0D;&#x0A;- Original project: &apos;CS1050M03&apos;&#x0D;&#x0A;- Destination element: &apos;someProject&apos;&#x0D;&#x0A;- Original element: &apos;Module03.M03SwapMethod.java&apos;" description="Copy compilation unit" destination="=someProject" element1="/&lt;Module03{M03SwapMethod.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1757444545189" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Colen\OneDrive\CS1050-Fall\Eclipse Workspace\.metadata\.plugins\org.eclipse.jdt.core
+2685776372.index
+1334561189.index
+1860445401.index
+1865797976.index

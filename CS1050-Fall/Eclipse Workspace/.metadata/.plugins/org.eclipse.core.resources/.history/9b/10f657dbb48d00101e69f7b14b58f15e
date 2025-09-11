@@ -1,0 +1,14 @@
+
+public class M02L06MathRandom {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("hello");
+		String stringTest="Silly Willy";
+		System.out.println("Enter"+ stringTest);
+		String firstName = input.next();
+		System.out.printf("The name %s", firstName);
+
+	}
+
+}
